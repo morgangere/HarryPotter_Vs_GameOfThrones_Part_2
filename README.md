@@ -1,2 +1,11 @@
 # HarryPotter_Vs_GameOfThrones_Part_2
-A look at the distribution of part of speech tags, phrases, and average word count.
+### Overview
+### Cleaning
+### POS Tagging
+### Percentage of POS tags
+### Adjective Phrases
+### Adverb Phrases
+### Determiner Noun Phrases
+###Sentence Length Comparison containing differenct types of phrases
+###Top 10 word type frequncy distribution comparison
+###Sentiment Recommendations

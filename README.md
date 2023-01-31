@@ -1,4 +1,10 @@
 # HarryPotter_Vs_GameOfThrones_Part_2
+### Required Tools
+
+Jupyter Notebook
+
+Notepad
+
 ### Overview
 This is a continuation of part 1. The goal of this project was to gather two texts and do a comparison using Part-of-Speech tags and phrases containing particular tags.  The Two texts chosen were both fantasy books, and both first in a series.  One is Harry Potter with the target audience being adolescence and the other is Game of Thrones (book 1) targeted at adults.  Both books were obtained from kaggle.  The goal is to find differences in POS tags in books targeted towards adolescence vs. adults and to look at the difference in top words of each tag type and phrase type.
 ### Cleaning
